@@ -1,11 +1,12 @@
 {
   "files.exclude": {
+    ".vscode": true,
+    ".gitignore": true,
+    ".prettierrc": true,
     "tsconfig.json": true,
     "postcss.config.js": true,
     "package-lock.json": true,
     "package.json": true,
-    ".prettierrc": true,
-    ".gitignore": true,
-    "src\\vite-env.d.ts": true
+    "src\\vite-env.d.ts": true,
   }
 }
